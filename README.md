@@ -1,5 +1,7 @@
 Estudiante: Christian Alexander Meriles Nuñez 
+
 Presentación: 15/09/26
+
 Asignatura: Programación Avanzada 
 
 La clase simula el comportamiento de una Torre de ajedrez, con atributos privados
